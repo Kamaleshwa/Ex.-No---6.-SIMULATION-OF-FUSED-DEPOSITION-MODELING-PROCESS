@@ -21,7 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Uploading EX 6 EMPD.png…]()
+![EX 6 EMPD](https://github.com/Kamaleshwa/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144980199/8e9ff0bd-a46c-4acb-b26a-6dc80fd09248)
 
 
 
