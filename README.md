@@ -21,9 +21,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![EX 6 EMPD](https://github.com/Kamaleshwa/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144980199/5c8bca79-bb70-41ef-b472-9f864262ed64)
 
-### Name:
-### Register Number:
+
+### Name: KAMALESHWAR KV
+### Register Number: 23013347
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
